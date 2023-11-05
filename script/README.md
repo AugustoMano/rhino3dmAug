@@ -55,7 +55,7 @@ The following table's first column shows the platform you would like to target. 
   </thead>
   <tbody>
     <tr>
-      <td rowspan=5>.NET</td>
+      <td rowspan=3>.NET</td>
       <td align="right">Windows</td>
       <td align="center">✅</td>
       <td></td>
